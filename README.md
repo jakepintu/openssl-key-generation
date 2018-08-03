@@ -5,4 +5,4 @@ openssl req -newkey rsa:2048 -new -nodes -x509 -days 3650 -keyout key.pem -out c
 
 ## Preview
 
-(https://raw.githubusercontent.com/jakepintu/openssl-key-generation/master/img/openssl-key-generation.png)
+[![openssl Key Generation Preview](https://raw.githubusercontent.com/jakepintu/openssl-key-generation/master/img/openssl-key-generation.png)](https://jakepintu.github.io/openssl-key-generation/)
